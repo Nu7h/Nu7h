@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hey there 👋, I'm Nuththawat Kitchongcharoenying.
 
+A computer engineer undergraduate from the University of Hong Kong.
+
+I'm currently working on a Thermal Camera-Based Public Space Occupancy Detection using ML.
+
+#📫 How to reach me:
+- My GitHub profile: https://github.com/Nu7h
+- My Email: nuthbanrodfai@gmail.com, nuththawat.k@connect.hku.hk
+
+Thank you for visiting my profile. 
 <!--
 **Nu7h/Nu7h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
