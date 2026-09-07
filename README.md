@@ -4,7 +4,7 @@ A computer engineer undergraduate from the University of Hong Kong.
 
 I'm currently working on a Thermal Camera-Based Public Space Occupancy Detection using ML.
 
-#📫 How to reach me:
+# 📫 How to reach me:
 - My GitHub profile: https://github.com/Nu7h
 - My Email: nuthbanrodfai@gmail.com, nuththawat.k@connect.hku.hk
 
